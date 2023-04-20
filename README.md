@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taihei-Tatsukawa&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taihei-Tatsukawa&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taihei-Tatsukawa&layout=compact&theme=prussian" />
+  <img alt="Github Stats" height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Taihei-Tatsukawa&layout=compact&theme=prussian" />
+</p>
