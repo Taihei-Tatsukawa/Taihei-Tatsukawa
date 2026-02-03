@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Next.js**
 - ✊ We try to code semantically.
-- ⭐️ My favorite tool is Notion
+- ⭐️ My favorite tool is Cursor
 
 <h3 align="left">My Skills</h3>
 <p align="left"> 
